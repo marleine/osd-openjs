@@ -3,6 +3,8 @@ A playground for the OpenJS Open Source 101 Workshop at the Grace Hopper Open So
 
 Where are you all calling in from?
 - Toronto, Canada!
+- Boston, MA!
+- Minnesota, USA!
 - San Diego, CA, USA
 - San Diego, California, United States
 - San Diego, United States!
