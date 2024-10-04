@@ -5,3 +5,13 @@ Where are you all calling in from?
 - Toronto, Canada!
 - Boston, MA!
 - Phoenix, AZ!
+- Minnesota, USA!
+- San Diego, CA, USA
+- San Diego, California, United States
+- San Diego, United States!
+- Boston, Massachusetts (which is REALLY hard to spell!)
+- Seattle, Washington :)
+- Boston, MA!
+- Phoenix, AZ !
+- NJ
+- North Carolina
