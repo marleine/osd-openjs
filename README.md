@@ -3,4 +3,5 @@ A playground for the OpenJS Open Source 101 Workshop at the Grace Hopper Open So
 
 Where are you all calling in from?
 - Toronto, Canada!
+- Boston, Massachusetts (which is REALLY hard to spell!)
 
