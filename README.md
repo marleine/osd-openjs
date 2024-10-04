@@ -10,4 +10,6 @@ Where are you all calling in from?
 - San Diego, United States!
 - Boston, Massachusetts (which is REALLY hard to spell!)
 - Seattle, Washington :)
+- Boston, MA!
+- NJ
 - North Carolina
